@@ -4,6 +4,19 @@
 
 - <b> Fully Functioning Keylogger in Python </b>
   - Link to keylogger Project - https://github.com/jforrest722/Basic-Python-Keylogger
+ 
+<h2> 🎟 Current Certifications I Have:</h2>
+
+- <b> OSHA 10 </b>
+  - Credential ID 14-702444165
+ 
+- <b> Dante Networking Level 1 </b>
+  - https://bit.ly/4cj35U5
+ 
+- <b> TestOut IT Fundamentals Pro </b>
+  - https://certification.testout.com/verifycert/6-2C6-VES46V 
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
