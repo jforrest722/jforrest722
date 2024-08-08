@@ -3,11 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Fully Functioning Keylogger in Python </b>
-  - [Link to keylogger] - (link to keylogger)
-
-<h2>📺 Images and Videos of Projects in Action </h2>
-
-- [Python Keylogger] - (link)
+  - Link to keylogger Project - https://github.com/jforrest722/Basic-Python-Keylogger
 
 <h2> 🤳 Connect with me:</h2>
 
